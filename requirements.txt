@@ -2,3 +2,6 @@ crewai==0.28.8
 crewai-tools==0.1.7
 streamlit>=1.30.0
 langchain-groq>=0.1.0
+
+GROQ_API_KEY = "gsk_xxxx..."
+SERPER_API_KEY = "your_copied_serper_key_here"
